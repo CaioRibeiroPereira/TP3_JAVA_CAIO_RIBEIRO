@@ -1,0 +1,9 @@
+nome (String): O nome do produto é crucial para identificar o item dentro do sistema
+de gerenciamento. Ele servirá para uma forma de referência para os clientes e o sistema.
+
+preco (double): O preço do produto é essencial para o controle financeiro e de vendas.
+Ele determinará o custo do produto para o consumidor e impacta o lucro do estabelecimento.
+
+quantidadeEmEstoque (int): Este atributo é fundamental para o controle de inventário.
+Ele permite saber quantas unidades do produto estão disponíveis para venda e ajuda a
+evita a venda de itens fora de estoque.

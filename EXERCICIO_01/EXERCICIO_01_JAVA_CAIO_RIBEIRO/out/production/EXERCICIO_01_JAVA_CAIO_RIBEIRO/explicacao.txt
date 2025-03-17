@@ -1,0 +1,23 @@
+***Conceitos***
+
+*Classe: Uma classe em Java é um modelo que define a estrutura e o comportamento de objetos.
+Ela contém atributos, que armazenam dados, e métodos, que realizam ações. Classes permitem encapsulamento,
+organizando o código de forma modular e reutilizável. Através da orientação a objetos, suportam herança
+e polimorfismo para especialização e flexibilidade. Podem ter modificadores de acesso que controlam a visibilidade
+de seus membros.
+
+*Objeto: é uma instância de uma classe, representando uma entidade com estado e comportamento.
+Seu estado é definido pelos atributos da classe, enquanto seu comportamento é determinado pelos métodos.
+Objetos são criados a partir do operador new, alocando memória e inicializando variáveis.
+Eles permitem a modelagem de elementos do mundo real dentro do programa.Sua utilização promove reutilização,
+organização e manutenção eficiente do código.
+
+*Campos (ou Atributos): são variáveis declaradas dentro de uma classe, responsáveis por armazenar
+o estado dos objetos. Podem ter valores padrão ou ser inicializados no construtor da classe. Eles podem ter diferentes tipos de acesso, como private, protected ou public,
+controlando sua visibilidade. Atributos podem ser primitivos ou referências para outros objetos, permitindo
+estruturação complexa.
+
+*Métodos: são blocos de código dentro de uma classe que definem o comportamento dos objetos.
+Eles podem receber parâmetros e retornar um valor, mas também podem ser void, ou seja, não retornar nada.
+Os métodos são invocados pelos objetos para realizar ações ou manipular seus atributos.
+Métodos são essenciais para a interação entre objetos e para a implementação da lógica de negócios no sistema.

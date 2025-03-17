@@ -1,0 +1,15 @@
+Primeira explicação de como o construtor se comporta ao receber valores---->
+O construtor recebe os valores quando o objeto é criado e define os atributos
+com esses valores. Ele garante que o objeto comece com dados completos e corretos.
+Isso facilita a criação de objetos, pois você não precisa definir os valores depois.
+O construtor ajuda a evitar erros, inicializando o objeto de forma organizada.
+
+
+
+---->Justificativa
+ Usar um construtor facilita a criação de objetos porque garante que todos os atributos
+ sejam inicializados corretamente de uma vez, evitando que o objeto fique em um estado
+ inconsistente. Ele força a definição de valores obrigatórios no momento da criação,
+ tornando o código mais claro e seguro. Com métodos "set" separados, há o risco de esquecer
+ de inicializar algum atributo ou de atribuir valores inválidos, além de tornar o código mais
+ longo e propenso a erros.
